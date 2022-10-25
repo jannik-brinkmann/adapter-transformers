@@ -18,6 +18,7 @@ MODELS_WITH_ADAPTERS = [
     "deberta",
     "deberta-v2",
     "vit",
+    "vit_mae",
 ]
 
 IGNORE_NOT_IMPLEMENTING_MIXIN = [

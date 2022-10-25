@@ -111,6 +111,7 @@ SUPPORTED_MODELS = {
         "gptj",
         "t5",
         "vit",
+        "vit-mae",
         "xlm-roberta",
     ],
 }
